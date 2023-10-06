@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DependencyInjections</string>
+    <string name="get_currency">GET CURRENCY</string>
+</resources>
